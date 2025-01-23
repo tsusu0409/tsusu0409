@@ -7,4 +7,4 @@
 - 千葉県立東葛飾中学校 2期卒業生
 - 千葉県立東葛飾高等学校 95期卒業生
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=tsusu0409)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=tsusu0409&show_icons=true&locale=en&layout=compact)
