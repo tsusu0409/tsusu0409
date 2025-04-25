@@ -13,5 +13,7 @@
   - 2022年度合唱祭幹部
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=tsusu0409&show_icons=true&locale=en&layout=compact)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsusu0409)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="TopLangs" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsusu0409&theme=transparent&layout=compact"/>
+  <img alt="githubStats" height="250px" src="https://github-readme-stats.vercel.app/api?username=tsusu0409&theme=transparent&show_icons=ture"/>
+</p>
