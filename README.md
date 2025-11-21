@@ -1,7 +1,7 @@
-# Introduction
+## Introduction
 はじめまして。Tsusuといいます。エンジニアの真似事に気持ちがあります。
 
-# About Me
+## About Me
 - 川岸翼 / KAWAGISHI Tsubasa
 - 筑波大学 学士3年
   - 理工学群 応用理工学類 電子・量子工学主専攻
