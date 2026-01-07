@@ -1,5 +1,5 @@
 ## Introduction
-はじめまして。Tsusuといいます。エンジニアの真似事に気持ちがあります。
+EE student @ University of Tsukuba
 
 ## About Me
 - 川岸翼 / KAWAGISHI Tsubasa
