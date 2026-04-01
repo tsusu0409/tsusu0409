@@ -3,8 +3,8 @@ EE student @ University of Tsukuba
 
 ## About Me
 - 川岸翼 / KAWAGISHI Tsubasa
-- 筑波大学 学士3年
-  - 理工学群 応用理工学類 電子・量子工学主専攻
+- 筑波大学 学士4年
+  - 理工学群 応用理工学類 電子・量子工学主専攻 超ワイドギャップ半導体研究室
   - 学園祭実行委員会jsys23, jsys24
   - アルティメット同好会INVERHOUSE #24
 - 千葉県立東葛飾中学校 2期卒業生
